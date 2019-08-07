@@ -6,6 +6,10 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld123!");
         System.out.println(123);
+        System.out.println("idea112");
+
+
+
 		
 		
 
